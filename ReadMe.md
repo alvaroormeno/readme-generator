@@ -1,6 +1,8 @@
-# Project Alvaro 
+# RUN BUDDY [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+  
+
+  
 
   #Table of Contents
   1. [Description](#Description)
@@ -12,16 +14,17 @@
   6. [Questions](#Questions)
 
   ## Description 
-  Very difficult project
+  THIS AND THAT
 
   ## Installation
   npm install
 
   ## Usage:
-  many
+  
 
   ## License:
   MIT
+  (https://opensource.org/licenses/MIT)
 
   ## Contribution:
   
@@ -30,6 +33,8 @@
   npm test
 
   ## Questions
-  For any questions contact Alvaro
+  For any questions contact:
+  
+  
 
 
