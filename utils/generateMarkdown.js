@@ -44,34 +44,34 @@ function generateMarkdown(data) {
   
 
   #Table of Contents
-  1. [Description](#Description)
-  2. [Installation](#Installation)
-  3. [Usage](#Usage)
-  4. [license](#license)
-  4. [Contribution](#Contribution)
-  5. [Testing](#Testing)
-  6. [Questions](#Questions)
+  1. [Description](##Description)
+  2. [Installation](##Installation)
+  3. [Usage](##Usage)
+  4. [license](##license)
+  4. [Contribution](##Contribution)
+  5. [Testing](##Testing)
+  6. [Questions](##Questions)
 
-  ## Description 
+  ##Description 
   ${data.description}
 
-  ## Installation
+  ##Installation
   ${data.installation}
 
-  ## Usage:
+  ##Usage:
   ${data.usage}
 
   ## License:
   ${data.license}
   ${renderLicenseLink(data.license)}
 
-  ## Contribution:
+  ##Contribution:
   ${data.contribution}
 
-  ## Testing:
+  ##Testing:
   ${data.testing}
 
-  ## Questions
+  ##Questions
   ${data.questions}
   ${data.email}
   ${data.github}
